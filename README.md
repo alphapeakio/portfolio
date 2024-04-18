@@ -7,8 +7,7 @@ Projects:
  5. Medicare Competitive Bidding Program (CBP) and Durable Medical Equipment (DME) -  How did the CBP legislation affect prices of DME (Stata)
     
 Websites:
- 1. alphapeak.io
-    created from front and back end of website
+ 1. alphapeak.io - created front front and back end of website
     - Alpha Form - AI running analysis tool (Python, PHP, JavaScript, HTML, CSS)
     - Alpha Trainer - AI running training assistant (Python, JavaScipt, Flask, HTML, CSS)
     - BYU AI Running analysis study - created site for BYU Biomechanics lab and automated the collection and cleaning of participant survey data and used Alpha Form for the analysis.
