@@ -11,4 +11,14 @@ Websites:
     - Alpha Form - AI running analysis tool (Python, PHP, JavaScript, HTML, CSS)
     - Alpha Trainer - AI running training assistant (Python, JavaScipt, Flask, HTML, CSS)
     - BYU AI Running analysis study - created site for BYU Biomechanics lab and automated the collection and cleaning of participant survey data and used Alpha Form for the analysis.
+      
+Research and Publications: 
+•	Conference Paper: Conference Paper: Created new method for conducting biomechanic research and presented it to the International Journal of Exercise Science Conference.
+https://digitalcommons.wku.edu/ijesab/vol14/iss2/179/
+
+Media Coverage: 
+•	DyeStat Article: Featured in DyeStat for contributions to athletic performance analysis. 
+https://www.runnerspace.com/gprofile.php?mgroup_id=44531&do=news&news_id=669582
+•	SEAV Articles: Covered by the Salt Lake Tribune for advocacy efforts related to youth nicotine addiction. 
+https://www.sltrib.com/news/politics/2019/02/28/students-rally-around/
 
