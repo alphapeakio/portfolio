@@ -17,7 +17,7 @@ Research and Publications:
 https://digitalcommons.wku.edu/ijesab/vol14/iss2/179/
 
 Media Coverage: 
-    - DyeStat Article: Featured in DyeStat for contributions to athletic performance analysis. https://www.runnerspace.com/gprofile.php?mgroup_id=44531&do=news&news_id=669582
-    - SEAV Articles: Covered by the Salt Lake Tribune for advocacy efforts related to youth   nicotine addiction. 
+1. DyeStat Article -  Featured in DyeStat for contributions to athletic performance analysis. https://www.runnerspace.com/gprofile.php?mgroup_id=44531&do=news&news_id=669582
+2. SEAV Articles -  Covered by the Salt Lake Tribune for advocacy efforts related to youth   nicotine addiction. 
 https://www.sltrib.com/news/politics/2019/02/28/students-rally-around/
 
