@@ -13,7 +13,7 @@ Websites:
     - BYU AI Running analysis study - created site for BYU Biomechanics lab and automated the collection and cleaning of participant survey data and used Alpha Form for the analysis.
       
 Research and Publications: 
- - Conference Paper: Conference Paper: Created new method for conducting biomechanic research and presented it to the International Journal of Exercise Science Conference.
+1. Conference Paper: Conference Paper: Created new method for conducting biomechanic research and presented it to the International Journal of Exercise Science Conference.
 https://digitalcommons.wku.edu/ijesab/vol14/iss2/179/
 
 Media Coverage: 
